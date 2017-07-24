@@ -24,4 +24,6 @@ matplotlib
 ```
 ## Result
 
+![alt text](https://raw.githubusercontent.com/graphtobinary/IMDB-Data-Visualizations/master/IMDB-Rating.png)
+
 
